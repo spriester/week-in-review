@@ -22,7 +22,7 @@ _For support, contact samanthapriester@outlook.com_
 
 ## Technologies Used
 
-_HTML, CSS, JavaScript_
+_HTML, CSS_
 
 ### License
 
